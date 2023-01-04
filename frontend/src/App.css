@@ -1,0 +1,23 @@
+.modelEdit {
+}
+.fields {
+  display: flex;
+  margin: 1rem 0;
+}
+.fields span {
+  font-size: 1.2rem;
+  margin-right: 1rem;
+  color: rgba(0, 0, 0, 0.88);
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  word-wrap: break-word;
+}
+.color{
+  
+  color: rgba(0, 0, 0, 0.88);
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  word-wrap: break-word;
+}
